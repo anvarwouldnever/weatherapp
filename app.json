@@ -5,7 +5,21 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "609c9269-1f4e-4ccb-88c4-d63c8936171f"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/609c9269-1f4e-4ccb-88c4-d63c8936171f"
+    },
+    "android": {},
+    "ios": {}
   },
   "name": "weatherapp"
 }
